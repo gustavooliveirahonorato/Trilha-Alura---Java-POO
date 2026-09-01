@@ -15,8 +15,9 @@ Repositório dos estudos e projetos desenvolvidos durante a trilha de Java da Al
 - Programação Orientada a Objetos
 - Listas e coleções de dados
 - Consumo de APIs
-- Manipulação de arquivos
 - Tratamento de exceções
+- Manipulação de arquivos
+
 
 **Objetivo**
 
